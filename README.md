@@ -18,9 +18,9 @@
 - 🔧 &nbsp; IntelliJ | Visual Studio code | Git
 
 <h3>✨ Projects</h3>
-- reLaunchHer: Empowering Women to Reimagine Their Careers.
-- Perfect Olympic Predictors: Using ML to predict Olympic medal winners.
-- Bookstore Inventory Management: Your personal library, organized and optimized.
+<p><a href="https://github.com/shiehbeth/reLaunchHerBeth">reLaunchHer</a>: Empowering Women to Reimagine Their Careers.</p>
+<p><a href="https://github.com/shiehbeth/PerfectOlympicPredictors">Perfect Olympic Predictors</a>: Using ML to predict Olympic medal winners.</p>
+<p><a href="https://github.com/shiehbeth/bookstore-inventory">Bookstore Inventory Management</a>: Your personal library, organized and optimized.</p>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -29,4 +29,8 @@
 &nbsp; <a href="mailto:shiehbeth@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [devSouvik](https://github.com/devSouvik)
+
+
+
+
+Template From [devSouvik](https://github.com/devSouvik)
