@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Computer Science Masters student @ Northeastern University.
 - 🤔 &nbsp; Exploring new technologies and developing innovative software solutions to real world problems.
-- 💜 &nbsp; Studying Computer Science, with a background in healthcare. Biology (BA) & Physical Therapy (DPT) @ Northwestern University.
+- 💜 &nbsp; Healthcare background: Biology (BA) & Physical Therapy (DPT) @ Northwestern University.
 - 💼 &nbsp; Full stack developer.
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence.
 - 🦀 &nbsp; Crabbing/shellfishing and cooking as hobbies/side hustles.
