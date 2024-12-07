@@ -13,11 +13,12 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | C 
-- 🌐 &nbsp; HTML | CSS | JavaScript | React | Spring 
+- 🌐 &nbsp; HTML | CSS | JavaScript | React | Spring | Express.js with Node.js
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; IntelliJ | Visual Studio code | Git
 
 <h3>✨ Projects</h3>
+<p><a href="https://github.com/shiehbeth/CoolAidProject">CoolAid</a>: Location Based Heat Relief Resource Matching.</p>
 <p><a href="https://github.com/shiehbeth/reLaunchHerBeth">reLaunchHer</a>: Empowering Women to Reimagine Their Careers.</p>
 <p><a href="https://github.com/shiehbeth/PerfectOlympicPredictors">Perfect Olympic Predictors</a>: Using ML to predict Olympic medal winners.</p>
 <p><a href="https://github.com/shiehbeth/bookstore-inventory">Bookstore Inventory Management</a>: Your personal library, organized and optimized.</p>
