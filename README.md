@@ -19,6 +19,7 @@
 
 <h3>✨ Projects</h3>
 <p><a href="https://github.com/shiehbeth/CoolAidProject">CoolAid</a>: Location Based Heat Relief Resource Matching.</p>
+<p><a href="https://github.com/ShirleyFang/ActIve">ActIve</a>: Personal exercise generation based on real-time posture analysis.</p>
 <p><a href="https://github.com/shiehbeth/reLaunchHerBeth">reLaunchHer</a>: Empowering Women to Reimagine Their Careers.</p>
 <p><a href="https://github.com/shiehbeth/PerfectOlympicPredictors">Perfect Olympic Predictors</a>: Using ML to predict Olympic medal winners.</p>
 <p><a href="https://github.com/shiehbeth/bookstore-inventory">Bookstore Inventory Management</a>: Your personal library, organized and optimized.</p>
